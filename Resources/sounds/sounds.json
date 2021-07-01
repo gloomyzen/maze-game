@@ -1,0 +1,8 @@
+{
+  "sounds": {
+    "ui.click": "effects/click.wav",
+
+    "music.main": "musics/Again.mp3",
+    "music.main2": "musics/BittersweetAnthem.mp3"
+  }
+}

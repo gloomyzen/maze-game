@@ -1,0 +1,32 @@
+{
+  "maps": {
+    "40001": {
+      "mapPath": "images/battle/maps/location_1/firstMap.tmx",
+      "wallProperty": "wall",
+      "spawnPlayerProperty": "playerSpawn",
+      "spawnEnemyProperty": "enemySpawn",
+      "floors": [
+        {
+          "level": 0,
+          "layers": ["bg"]
+        }
+      ]
+    },
+    "40002": {
+      "mapPath": "images/battle/maps/location_2/ruines.tmx",
+      "wallProperty": "wall",
+      "spawnPlayerProperty": "playerSpawn",
+      "spawnEnemyProperty": "enemySpawn",
+      "floors": [
+        {
+          "level": 0,
+          "layers": ["layer_1_1", "layer_1_2"]
+        },
+        {
+          "level": 1,
+          "layers": ["layer_2_1", "layer_2_2"]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "example": {
+    "transformComponent": {
+      "position": [ 200, 200 ],
+      "size": [ 128, 128 ],
+      "scale": 1
+    },
+    "gridComponent": {
+      "marginX": [ 5, 5 ],
+      "marginY": [ 5, 5 ],
+      "paddingX": [ 5, 5 ],
+      "paddingY": [ 5, 5 ],
+      "col": 1,
+      "row": 4,
+      "direction": "horizontal",
+      "align": "left"
+    }
+  },
+  "spriteNode": {
+    "transformComponent": {
+      "position": [ 128, 128 ],
+      "size": [ 128, 128 ],
+      "scale": 1
+    },
+    "spriteComponent": {
+      "image": "images/testTiles/tile_3.png"
+    }
+  },
+  "labelNode": {
+    "transformComponent": {
+      "anchor": [ 0.5, 0.5 ],
+      "scale": 1
+    },
+    "labelComponent": {
+      "text": "Label Node Text",
+      "fontType": "ttf",
+      "fontSize": 24.0,
+      "fontFile": "fonts/SFProText_Regular.ttf",
+      "bold": true,
+      "italics": true,
+      "alight": "center",
+      "maxLineWidth": 200
+    }
+  }
+}

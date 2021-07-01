@@ -1,0 +1,16 @@
+{
+  "frameResolution": {
+    "width": 1136, "height": 640, "desktopScale": 0.75,
+    "parent": "",
+    "path": "",
+    "showDisplayStats": true,
+    "pixel": false
+  },
+  "largeResolution": {
+    "width": 1366, "height": 640, "desktopScale": 0.75,
+    "parent": "frameResolution",
+    "path": "largeResolution",
+    "showDisplayStats": true,
+    "pixel": false
+  }
+}
