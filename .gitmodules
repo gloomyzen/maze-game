@@ -1,0 +1,4 @@
+[submodule "src/common"]
+	path = src/common
+	url = git@github.com:gloomyzen/cocos2d-common.git
+	branch = master
